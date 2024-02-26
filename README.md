@@ -5,7 +5,7 @@ LASERM8 Release Notes
 
 ! IMPORTANT !
 MAKE SURE TO CHANGE ALL C:\ FILE PATHS TO THE CORRECT SPECIFIED LOCATION
-THERE ARE  IN TOTAL:
+THERE ARE 6 IN TOTAL:
 1) Part template Part.PRTDOT
 2) Weldment profile RHS C350 as.sldlfp
 3) Sordernum folderpath
