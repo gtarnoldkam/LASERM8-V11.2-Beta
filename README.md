@@ -24,11 +24,17 @@ V4: Hole calculator implemented with custom cut length added
 V5: Custom edge gap calculator implemented
 
 V6: Solidworks parts API called to create part
+
 V7: Edge gap locking implemented
+
 V8: Bug fixes for first release
+
 V9: Save function implemented
+
 V10: Drawing function implemented
+
 V11: Rake function implemented
+
 
 
 Current stable release: V11.2
